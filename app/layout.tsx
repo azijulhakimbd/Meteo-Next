@@ -43,7 +43,7 @@ export default function RootLayout({
       suppressHydrationWarning
       className={hindSiliguri.variable}
     >
-      <body className="font-sans antialiased">
+      <body className="antialiased">
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
